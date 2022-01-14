@@ -1,0 +1,45 @@
+.content{
+	display: flex;
+	padding: 20px 40px;
+	
+}
+
+.content-title h4{
+	border-bottom: 1px solid #000;
+	text-align: center;
+	padding-bottom: 10px;
+	font-size: 18px;
+	text-transform: uppercase;
+	margin-bottom: 10px;
+}
+
+.content-title {
+	border: 1px solid #e3e5ec;
+	padding: 20px 20px;
+	margin-bottom: 170px;
+	width: 25%;
+	margin-right: 25px;
+}
+
+.content-title .layer ul{
+  list-style-type: none;
+  padding-left: 1px;
+  margin-right: 105px;
+
+
+}
+
+.content-title .layer ul li{
+  color: black;
+  font-size: 16px;
+  padding-bottom: 15px;
+}
+
+.content-title .layer ul li a{
+  text-decoration: none;
+  color: black;
+}
+
+.content-title .layer ul li a:hover{
+  color: #65d1e6;
+}
